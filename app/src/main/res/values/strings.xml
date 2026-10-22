@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android ZIP to APK</string>
+    <string name="tagline">অ্যান্ড্রয়েড স্টুডিও প্রজেক্ট থেকে আসল APK বিল্ডার</string>
+    <string name="tab_builder">বিল্ডার (Build APK)</string>
+    <string name="tab_validator">ভ্যালিডেটর (Inspect)</string>
+    <string name="tab_worker">বিল্ড ওয়ার্কার (Server)</string>
+    <string name="tab_guide">ইনস্টলেশন গাইড</string>
+    <string name="btn_select_zip">প্রজেক্ট ZIP ফাইল নির্বাচন করুন</string>
+    <string name="btn_start_build">APK বিল্ড শুরু করুন</string>
+    <string name="btn_download_apk">APK ডাউনলোড করুন</string>
+    <string name="btn_install_apk">সরাসরি ইনস্টল করুন</string>
+</resources>

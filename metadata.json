@@ -1,0 +1,6 @@
+{
+  "name": "Android ZIP to APK",
+  "description": "সম্পূর্ণ অ্যান্ড্রয়েড স্টুডিও প্রজেক্ট জিপ থেকে আসল ডিবাগ APK তৈরির নির্ভরযোগ্য বাংলা অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
